@@ -1,4 +1,4 @@
-﻿pool_name,protocolo,assets,risk,yield,url
+﻿pool_name,protocol,assets,risk,yield,url
 Uniswap ETH Market Making,https://www.notion.so/Uniswap-v3-5461faaf7fc343298b466a6ee71b9ff2,"https://www.notion.so/Coinbase-Wrapped-Staked-ETH-1dfae184eee1474da504942ddd079864, https://www.notion.so/Ether-083c480c6565470385190396104819ad",B,0.0637,https://exponential.fi/pools/11b1cee1-2018-4565-9efe-b5dec316a1ab
 Dopex BTC Weekly Puts,https://www.notion.so/Dopex-d58f606c8000448a96ff46b9ce631bf0,"https://www.notion.so/USD-Coin-99cb8d868e2745c5b0f32d7a673f6919, https://www.notion.so/Tether-3b42c30d8b1f495db528f169e4365140",C,5.07732E+12,https://exponential.fi/pools/12a705a6-d686-4ddf-a033-b8113345b1d9
 Dopex DPX Monthly Calls,https://www.notion.so/Dopex-7436cbba48d24c5ab0084651a4227c8e,https://www.notion.so/Dopex-Governance-Token-5f7d487165b1425bbe72ee941c74ab0d,B,45.2102,https://exponential.fi/pools/764c37f9-0a08-46ab-bedd-4f4b58410e8a
