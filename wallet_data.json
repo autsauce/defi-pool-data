@@ -1,0 +1,822 @@
+{
+"0x46a761770A10EF57483577281B7B535e1BAae023": {
+"by_chain": [
+{
+"chain": "0x1",
+"total": 31
+},
+{
+"chain": "0x38",
+"total": 333
+},
+{
+"chain": "0x89",
+"total": 35
+},
+{
+"chain": "0xa86a",
+"total": 0
+},
+{
+"chain": "0xfa",
+"total": 0
+},
+{
+"chain": "0xa4b1",
+"total": 2
+}
+],
+"by_protocol": [
+{
+"protocol": "Stargate",
+"total": 19
+},
+{
+"protocol": "Uniswap v2",
+"total": 2
+},
+{
+"protocol": "Compound Finance",
+"total": 1
+},
+{
+"protocol": "PancakeSwap",
+"total": 43
+},
+{
+"protocol": "BiSwap",
+"total": 9
+}
+],
+"by_token": [
+{
+"token": "OKB(OKEx) (Ethereum Mainnet)",
+"total": 10
+},
+{
+"token": "USDC (Ethereum Mainnet)",
+"total": 1
+},
+{
+"token": "BNBw (Binance Smart Chain Mainnet)",
+"total": 7
+},
+{
+"token": "PLY (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "AURA (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "BGEO (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "RFX (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "MetaWar (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "PDot.io (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "AutoFarmCake (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "Cake (Binance Smart Chain Mainnet)",
+"total": 8
+},
+{
+"token": "BeeP (Binance Smart Chain Mainnet)",
+"total": 40
+},
+{
+"token": "ONI (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "UCAT (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "METAGON (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "DAX (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "QTM (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "wETH (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "SUNT (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "wLink (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "LOVEINU (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "PANDA (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "wADA (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "ZBTC (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "wBTC (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "FISH (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "ACCEL (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "SAFUv2 (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "MCF (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "MNEP (Polygon Mainnet)",
+"total": 1
+}
+]
+},
+"0x7212d709F1A4F91fb4cB97A39200786375a54dD9": {
+"by_chain": [
+{
+"chain": "0x1",
+"total": 10
+},
+{
+"chain": "0x38",
+"total": 41
+},
+{
+"chain": "0x89",
+"total": 0
+},
+{
+"chain": "0xa86a",
+"total": 0
+},
+{
+"chain": "0xfa",
+"total": 0
+},
+{
+"chain": "0xa4b1",
+"total": 0
+}
+],
+"by_protocol": [
+{
+"protocol": "Compound Finance",
+"total": 2
+},
+{
+"protocol": "PancakeSwap",
+"total": 2
+}
+],
+"by_token": [
+{
+"token": "USDC (Ethereum Mainnet)",
+"total": 2
+},
+{
+"token": "Cake-LP (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "OBT (Binance Smart Chain Mainnet)",
+"total": 1
+}
+]
+},
+"0xbf8f752989630Ed322979A6e922c24452daD579f": {
+"by_chain": [
+{
+"chain": "0x1",
+"total": 37
+},
+{
+"chain": "0x38",
+"total": 223
+},
+{
+"chain": "0x89",
+"total": 2
+},
+{
+"chain": "0xa86a",
+"total": 38
+},
+{
+"chain": "0xfa",
+"total": 0
+},
+{
+"chain": "0xa4b1",
+"total": 0
+}
+],
+"by_protocol": [
+{
+"protocol": "Sushi",
+"total": 1
+},
+{
+"protocol": "Stargate",
+"total": 2
+},
+{
+"protocol": "Compound Finance",
+"total": 2
+},
+{
+"protocol": "Uniswap v2",
+"total": 1
+},
+{
+"protocol": "PancakeSwap",
+"total": 12
+},
+{
+"protocol": "Trader Joe",
+"total": 7
+}
+],
+"by_token": [
+{
+"token": "TITANO (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "wMEMO (Avalanche C-Chain)",
+"total": 3
+},
+{
+"token": "MEMO (Avalanche C-Chain)",
+"total": 2
+}
+]
+},
+"0x226cb6f707deafba8a0a88dcca0025e79416410e": {
+"by_chain": [
+{
+"chain": "0x1",
+"total": 0
+},
+{
+"chain": "0x38",
+"total": 4441
+},
+{
+"chain": "0x89",
+"total": 3
+},
+{
+"chain": "0xa86a",
+"total": 0
+},
+{
+"chain": "0xfa",
+"total": 0
+},
+{
+"chain": "0xa4b1",
+"total": 0
+}
+],
+"by_protocol": [
+{
+"protocol": "Stargate",
+"total": 74
+},
+{
+"protocol": "PancakeSwap",
+"total": 284
+},
+{
+"protocol": "Beefy",
+"total": 6
+}
+],
+"by_token": [
+{
+"token": "USDC (Binance Smart Chain Mainnet)",
+"total": 8
+},
+{
+"token": "BUSD (Binance Smart Chain Mainnet)",
+"total": 59
+},
+{
+"token": "SKILL (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "TLP (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "CLOCK (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "GFCE (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "BDOv2 (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "WBNB (Binance Smart Chain Mainnet)",
+"total": 15
+},
+{
+"token": "RAPTOR (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "moo1INCH1INCH (Binance Smart Chain Mainnet)",
+"total": 5
+},
+{
+"token": "mooBIFI (Binance Smart Chain Mainnet)",
+"total": 13
+},
+{
+"token": "NCAT (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "SAFEMOON (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "ZEP (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "crowVault-Ellipsis-EPS-BNB (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "WEX (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "WAULT (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "SAFEFAP (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "SWAMP (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "PNDA (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "AVLP (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "HODL (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "TRYON (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "GUSD (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "WATCH (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "MEB (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "SOUP (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "flyJetfuelPancakeLPGFCE-BNB (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "GG1 (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "D100 (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "acsACS (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "HYPR (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "MLA (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "sBFI (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "BFI (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "OIL (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "FRUIT (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "JulD (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "OAT (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "QUEEN (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "WYNAUT (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "SWGb (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "NYAC (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "USDC (Polygon Mainnet)",
+"total": 1
+}
+]
+},
+"0xfD4AD867e7DF5Bda8F59CB68ba9aEa465A21274c": {
+"by_chain": [
+{
+"chain": "0x1",
+"total": 1
+},
+{
+"chain": "0x38",
+"total": 402
+},
+{
+"chain": "0x89",
+"total": 8
+},
+{
+"chain": "0xa86a",
+"total": 0
+},
+{
+"chain": "0xfa",
+"total": 0
+},
+{
+"chain": "0xa4b1",
+"total": 0
+}
+],
+"by_protocol": [
+{
+"protocol": "PancakeSwap",
+"total": 11
+},
+{
+"protocol": "BiSwap",
+"total": 1
+},
+{
+"protocol": "Venus",
+"total": 4
+},
+{
+"protocol": "Stargate",
+"total": 12
+}
+],
+"by_token": [
+{
+"token": "$BLUR (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "SYN (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "TENFI (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "beltBNB (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "BONK (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "BNB (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "TWT (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "ETC (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "BPAY (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "AOG (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "MRT (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "ADA (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "AURA (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "BNBCASH (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "vCAKE (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "MINI BNB (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "CORE (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "ATOM (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "vETH (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "ODY (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "CENT (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "TRM (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "SOL (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "BINU (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "CHERRYJAM (Binance Smart Chain Mainnet)",
+"total": 15
+},
+{
+"token": "RAY (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "BTC GOLD (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "LUNA (Binance Smart Chain Mainnet)",
+"total": 1
+}
+]
+},
+"0x0b7336F31fc989B5405f132f2165cA412b9C875C": {
+"by_chain": [
+{
+"chain": "0x1",
+"total": 0
+},
+{
+"chain": "0x38",
+"total": 1248
+},
+{
+"chain": "0x89",
+"total": 87
+},
+{
+"chain": "0xa86a",
+"total": 1
+},
+{
+"chain": "0xfa",
+"total": 53
+},
+{
+"chain": "0xa4b1",
+"total": 0
+}
+],
+"by_protocol": [
+{
+"protocol": "Beefy",
+"total": 16
+},
+{
+"protocol": "PancakeSwap",
+"total": 146
+},
+{
+"protocol": "Stargate",
+"total": 36
+},
+{
+"protocol": "Curve",
+"total": 2
+},
+{
+"protocol": "Sushi",
+"total": 3
+},
+{
+"protocol": "Quickswap",
+"total": 1
+},
+{
+"protocol": "Beethoven X",
+"total": 6
+}
+],
+"by_token": [
+{
+"token": "LAND (Binance Smart Chain Mainnet)",
+"total": 6
+},
+{
+"token": "Cake (Binance Smart Chain Mainnet)",
+"total": 9
+},
+{
+"token": "FUSE (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "BEAN (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "MVC (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "THUNDERETH (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "THUNDERADA (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "THUNDERBNB (Binance Smart Chain Mainnet)",
+"total": 3
+},
+{
+"token": "THUNDERCAKE (Binance Smart Chain Mainnet)",
+"total": 5
+},
+{
+"token": "WATCH (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "BEE (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "WBNB (Binance Smart Chain Mainnet)",
+"total": 13
+},
+{
+"token": "ADA (Binance Smart Chain Mainnet)",
+"total": 2
+},
+{
+"token": "THOREUM (Binance Smart Chain Mainnet)",
+"total": 8
+},
+{
+"token": "SNX (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "FIL (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "ATOM (Binance Smart Chain Mainnet)",
+"total": 1
+},
+{
+"token": "BIFI (Polygon Mainnet)",
+"total": 2
+},
+{
+"token": "mooCurveATriCrypto3 (Polygon Mainnet)",
+"total": 2
+},
+{
+"token": "DAI (Polygon Mainnet)",
+"total": 3
+},
+{
+"token": "SPADE (Polygon Mainnet)",
+"total": 1
+},
+{
+"token": "DEI (Fantom Opera)",
+"total": 1
+}
+]
+}
+}
